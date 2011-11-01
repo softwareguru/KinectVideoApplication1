@@ -1,0 +1,13 @@
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\bin\Debug\KinectVideoApplication1.exe
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\bin\Debug\KinectVideoApplication1.pdb
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\MainWindow.baml
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\MainWindow.g.cs
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\App.g.cs
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\KinectVideoApplication1_MarkupCompile.cache
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\KinectVideoApplication1.g.resources
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\KinectVideoApplication1.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\KinectVideoApplication1.exe
+c:\users\gabriel\documents\visual studio 2010\Projects\KinectVideoApplication1\KinectVideoApplication1\obj\x86\Debug\KinectVideoApplication1.pdb
